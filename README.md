@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This short lesson summarizes the topics we covered in section 3 and why they'll be important to you as a Data Scientist.
+In this section, you continued to build your python skills. As you continue your data science journey, programming will continue to be one of the most important components of your toolkit.
 
 ## Objectives
 You will be able to:
