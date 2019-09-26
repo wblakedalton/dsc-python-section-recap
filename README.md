@@ -7,8 +7,8 @@ In this section, you continued to build your Python skills. As you continue your
 
 ## Objectives
 You will be able to:
-* Understand and explain what was covered in this section
-* Understand and explain why this section will help you become a Data Scientist
+- Understand and explain what was covered in this section
+- Understand and explain why this section will help you become a Data Scientist
 
 ## Key Takeaways
 In this section, we spent time deepening our Python skills and started to introduce some basic statistics that will be important as we work with various types of datasets later in the course.
